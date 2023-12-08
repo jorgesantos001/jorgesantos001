@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm Jorge
 
-<!--
-**jorgesantos001/jorgesantos001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an accountant and software developer. Currently pursuing a degree in Software Development at Fatec Franca and holding a degree in Accounting from Uni-Facef.
 
-Here are some ideas to get you started:
+#### 🌐 Languages
+- Portuguese (native)
+- English (advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Education
+- Multiplatform Software Development - Fatec Franca (2023-2026)
+- Accounting - Uni-Facef (2016-2019)
+
+#### 📫 How to Reach Me
+- [LinkedIn] www.linkedin.com/in/jorge-santos-7046a41a4
+- [Email] patrociniojorgeluiz@gmail.com
