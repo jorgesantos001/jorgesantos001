@@ -12,5 +12,5 @@ I'm an accountant and software developer. Currently pursuing a degree in Softwar
 - Accounting - Uni-Facef (2016-2019)
 
 #### 📫 How to Reach Me
-- [LinkedIn] www.linkedin.com/in/jorge-santos-7046a41a4
+- [LinkedIn] www.linkedin.com/in/jorge-patrocínio-7046a41a4
 - [Email] patrociniojorgeluiz@gmail.com
